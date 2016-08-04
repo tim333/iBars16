@@ -54,6 +54,7 @@
 	
 	
 	<preference name="orientation" value="portrait" />
+  <preference name="phonegap-version"       value="3.3.0" />
 	
 	<access origin="http://googleapis.com" subdomains="true" />
 	<access origin="https://google-maps-utility-library-v3.googlecode.com" subdomains="true" />
