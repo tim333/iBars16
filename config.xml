@@ -51,13 +51,13 @@
 
   <!-- gap:plugin name="cordova-plugin-inappbrowser" source="npm"/ -->
 
-  <plugin name="cordova-plugin-inappbrowser"   source="npm" spec="1.0.1" />
+  <plugin name="cordova-plugin-inappbrowser"   source="npm" spec="1.0.1" value="CDVInAppBrowser"/>
 
   <feature name="InAppBrowser">
     <param name="ios-package" value="CDVInAppBrowser" />
   </feature>
 
-  <plugin name="InAppBrowser" value="CDVInAppBrowser" />
+ 
  
   <preference name="orientation" value="portrait" />
   
