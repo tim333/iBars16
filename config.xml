@@ -53,6 +53,9 @@
 
   <plugin name="cordova-plugin-inappbrowser"   source="npm" spec="1.0.1" />
 
+<feature name="InAppBrowser">
+    <param name="ios-package" value="CDVInAppBrowser" />
+  </feature>
   
 	
 </widget>
