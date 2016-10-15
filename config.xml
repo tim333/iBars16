@@ -20,7 +20,7 @@
     <name>Late Bars London</name>
 	
 <platform name="ios">
-              <splash src="splash.png" />
+              
               
               <!-- iOS 7.0+ -->
               <!-- iPhone / iPod Touch  -->
